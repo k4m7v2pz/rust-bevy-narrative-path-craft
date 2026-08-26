@@ -36,4 +36,10 @@
 
 ---
 
-License: Unlicense
+## License（双许可，任选其一）
+
+- **木兰宽松许可证第 2 版（Mulan PSL-2.0）** — 中文许可优先（见 `LICENSE`）
+- **Unlicense** — 公有领域声明（见 `UNLICENSE`）
+
+思想：与 MIT / CC0 类似，宽松授权，可自由使用、修改、分发（含商业用途）。
+
